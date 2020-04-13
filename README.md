@@ -14,6 +14,6 @@
   * [x] List all records
   * [] Upload online 
   * [] Validation with javascript
-  # [] Clean iput data
+  * [] Clean input data
   * [] Pagination
   * [] Router 
