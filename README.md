@@ -13,3 +13,7 @@
   * [x] Create Guestbook form / add new record in table
   * [x] List all records
   * [] Upload online 
+  * [] Validation with javascript
+  # [] Clean iput data
+  * [] Pagination
+  * [] Router 
